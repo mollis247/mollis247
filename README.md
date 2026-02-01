@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Mollis 👋
 
-<!--
-**mollis247/mollis247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Full-Stack Web Developer passionate about building modern, scalable web applications.
 
-Here are some ideas to get you started:
+- 🔭 Working with React, Node.js, MongoDB & Firebase
+- 🌱 Improving my full-stack and backend skills
+- 👯 Open to collaboration on real-world projects
+- 💬 Ask me about React, JavaScript, Node.js
+- ⚡ Fun fact: I enjoy turning ideas into real products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- Vite
+
+### Backend
+- Node.js
+- Express.js
+
+### Databases & Services
+- MongoDB
+- Firebase
+
+### Tools
+- Git
+- GitHub
+- .gitignore
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mollis247&show_icons=true)
+
+---
+
+## 🔗 Connect With Me
+- GitHub: https://github.com/mollis247
