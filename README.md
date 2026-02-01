@@ -1,13 +1,13 @@
-# Hi, I'm Mollis 👋
+# 👋 Hi, I’m Mollis
 
 ## 🚀 About Me
-I'm a Full-Stack Web Developer passionate about building modern, scalable web applications.
+I’m a Full-Stack Web Developer who enjoys building modern, scalable, and user-friendly web applications.
 
-- 🔭 Working with React, Node.js, MongoDB & Firebase
-- 🌱 Improving my full-stack and backend skills
-- 👯 Open to collaboration on real-world projects
-- 💬 Ask me about React, JavaScript, Node.js
-- ⚡ Fun fact: I enjoy turning ideas into real products
+- 🔭 Building projects with **React, Node.js, MongoDB & Firebase**
+- 🌱 Continuously improving my full-stack and backend skills
+- 👯 Open to collaborating on real-world projects
+- 💬 Ask me about **JavaScript, React, Node.js**
+- ⚡ Fun fact: I love turning ideas into real products
 
 ---
 
@@ -16,7 +16,7 @@ I'm a Full-Stack Web Developer passionate about building modern, scalable web ap
 ### Frontend
 - HTML
 - CSS
-- JavaScript
+- JavaScript (ES6+)
 - React
 - Vite
 
@@ -35,8 +35,13 @@ I'm a Full-Stack Web Developer passionate about building modern, scalable web ap
 
 ---
 
+## 📌 Featured Focus
+Currently working on **full-stack applications** with authentication, APIs, and clean UI.
+
+---
+
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mollis247&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mollis247&show_icons=true&theme=github_dark)
 
 ---
 
